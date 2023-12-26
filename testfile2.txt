@@ -12,3 +12,4 @@ file update on server
 
 change this file on the server to test the fetch command
 add 1 line
+add 2 line
