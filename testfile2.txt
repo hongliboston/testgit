@@ -11,4 +11,3 @@ change after stage
 file update on server
 
 change this file on the server to test the fetch command
->>>>>>> 066e57afdfe415786406d0694babfc77fc8b584d
