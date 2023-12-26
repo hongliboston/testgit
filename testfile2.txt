@@ -1,13 +1,3 @@
 this is a second test file
 Hli_change this file in local branch
 
-chane in local branch on server
-merge
-file update on serevr
-
-change local now 
-change after stage
-
-file update on server
-
-change this file on the server to test the fetch command
