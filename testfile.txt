@@ -9,6 +9,6 @@ test 4 from br1
 
 test 5 need merge 2
 ytehhjjk k
-=======
+
 test3 
->>>>>>> 90a6a9252e20727b1ba529a96fc53f7044796097
+Fix merge problem
