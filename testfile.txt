@@ -3,7 +3,7 @@ change in github
 
 git pull change some thing new 
 test2
-<<<<<<< HEAD
+
 test3 
 test 4 from br1
 
