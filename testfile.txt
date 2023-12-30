@@ -1,14 +1,14 @@
 test line 1
-
-line 2
-br1 line 3
-
 change in github
 
 git pull change some thing new 
 test2
+<<<<<<< HEAD
 test3 
 test 4 from br1
 
 test 5 need merge 2
 ytehhjjk k
+=======
+test3 
+>>>>>>> 90a6a9252e20727b1ba529a96fc53f7044796097
